@@ -1,0 +1,8 @@
+.bar-card {
+    background-color: #fff;
+    transition: transform 0.2s;
+  }
+  
+  .bar-card:hover {
+    transform: scale(1.05);
+  }
